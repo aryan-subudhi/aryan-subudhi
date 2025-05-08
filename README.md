@@ -1,8 +1,11 @@
 # 💫About Me :
 <h1>I am Aryan Subudhi</h1>
 🔭 I am currently working on projects.
+<br>
 🌱 I am currently learning Web Development.
+<br>
 ⚡ Fun Fact: The first computer bug was a real insect!
+<br>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-subudhi) 
